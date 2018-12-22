@@ -1,14 +1,15 @@
-.title {
-   float: left;
+.header {
+  font-size: 35px;
+  width: 100%;
+  color: rgb(55, 113, 213);
+  margin-bottom: 14px;
+  text-align: center;
  }
 
-.header {
-   width: 100%;
-   font-size: 35px;
-   color:aliceblue;
-   margin-bottom: 14px;
- }
- 
  .scores {
-   float: right;
+  font-size: 30px;
+  width: 100%;
+  color: rgb(55, 113, 213);
+  margin-bottom: 14px;
+  text-align: center;
  }
