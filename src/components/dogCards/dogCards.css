@@ -1,7 +1,15 @@
 .card {
-   border-radius: 3px;
-   height: 135px;
+margin: 10px;
+border: 1px;
+padding: 3px;
+size: 35px;
+align-content: center;
+}
+
+.dogImage {
+   border-radius: 30px;
    margin: 3px;
    border: 5px;
-   position: relative;
+   padding: 1px;
+   align-content: center;
  }
