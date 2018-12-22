@@ -12,6 +12,12 @@ Each time the user clicks on a new image the score will increase by one point. I
 4. The goal of the game is to click each doggo only once (hence the whole memory game thing, duh. I mean, "woof").
 5. If the user clicks a pup's image twice (with a back-end value of 1 incrementing to 2), all dogs.json values will be revert to "0," the user score will revert to 0, and the game resets.
 
+## Screenshots
+
+![clickyScore](./public/assets/clickyScore.png)
+![clickySaveStreak](./public/assets/clickySaveStreak.png)
+![clickyPopUp](./public/assets/clickyPopUp.png)
+
 ## Built with:
 
 * HTML / XML
@@ -19,6 +25,8 @@ Each time the user clicks on a new image the score will increase by one point. I
 * [Bootstrap](https://getbootstrap.com/)
 * [Javascript](https://www.javascript.com/)
 * [React](https://reactjs.org/)
+
+## Deployed through:
 
 <hr>
 

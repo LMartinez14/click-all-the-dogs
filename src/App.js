@@ -25,7 +25,7 @@ class App extends Component {
     this.state.cards.forEach(card => {
       card.count = 0;
     });
-    alert("Ooopsies. You streaked to: " + this.state.score + "doggo.");
+    alert("YAASSS! You adopted " + this.state.score + " doggos!");
     // default zero
     this.setState({ score: 0 });
     return true;
