@@ -7,10 +7,10 @@ Each time the user clicks on a new image the score will increase by one point. I
 
 ## How it works
 1. The game starts once the first dog has been adopted... I mean, clicked.
-2. Each dog is defined by a card with a value set to "false."
-3. Once clicked, that dog's value is set to "true" and the score is incremented by one point per card switched from "false" to "true."
+2. Each dog is defined by a card with a value set to "0," or "null."
+3. Once clicked, that dog's value is set to "1" and the score is incremented by one point per card switched from "0" to "1."
 4. The goal of the game is to click each doggo only once (hence the whole memory game thing, duh. I mean, "woof").
-5. If the user clicks a pup's image twice (back-end value of true), all dogs.json values will be revert to "false," and the user score will revert to 0.
+5. If the user clicks a pup's image twice (with a back-end value of 1 incrementing to 2), all dogs.json values will be revert to "0," the user score will revert to 0, and the game resets.
 
 ## Built with:
 
