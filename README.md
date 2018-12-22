@@ -1,5 +1,5 @@
 # Click All The Doggos
-This "clicky game" is a dog themed memory game built using React ([Create React App](https://github.com/facebook/create-react-app)).
+This "clicky game" is a dog themed memory game built and bootstrapped through React [Create React App](https://github.com/facebook/create-react-app).
 
 ## Let's play fetch
 The objective of the game is to click each of the different pup images once.
@@ -20,8 +20,7 @@ Each time the user clicks on a new image the score will increase by one point. I
 * [Javascript](https://www.javascript.com/)
 * [React](https://reactjs.org/)
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<hr>
 
 ## Available Scripts
 
