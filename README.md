@@ -15,8 +15,8 @@ Each time the user clicks on a new image the score will increase by one point. I
 ## Screenshots
 
 ![clickyScore](./public/assets/clickyScore.png)
-![clickyScore]()
-![clickyScore]()
+![clickySaveStreak](./public/assets/SaveStreak.png)
+![clickyPopUp](./public/assets/PopUp.png)
 
 ## Built with:
 
