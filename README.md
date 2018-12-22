@@ -1,4 +1,26 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Click All The Doggos
+This "clicky game" is a dog themed memory game built and bootstrapped through React [Create React App](https://github.com/facebook/create-react-app).
+
+## Let's play fetch
+The objective of the game is to click each of the different pup images once.
+Each time the user clicks on a new image the score will increase by one point. If the user clicks an image twice within the same run, the game will reset and the score will return to 0.
+
+## How it works
+1. The game starts once the first dog has been adopted... I mean, clicked.
+2. Each dog is defined by a card with a value set to "false."
+3. Once clicked, that dog's value is set to "true" and the score is incremented by one point per card switched from "false" to "true."
+4. The goal of the game is to click each doggo only once (hence the whole memory game thing, duh. I mean, "woof").
+5. If the user clicks a pup's image twice (back-end value of true), all dogs.json values will be revert to "false," and the user score will revert to 0.
+
+## Built with:
+
+* HTML / XML
+* CSS
+* [Bootstrap](https://getbootstrap.com/)
+* [Javascript](https://www.javascript.com/)
+* [React](https://reactjs.org/)
+
+<hr>
 
 ## Available Scripts
 
